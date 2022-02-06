@@ -1,2 +1,0 @@
-inside nnnFILEforME.txt
-added some text# test line

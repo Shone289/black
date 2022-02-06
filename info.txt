@@ -1,5 +1,0 @@
-Info file inside black folder
-added text...
-new line of code'# test line from echo command' 
-'\nNew row in text with echo command' 
-++i
