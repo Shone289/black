@@ -1,0 +1,1 @@
+Hellow from git on path: https://github.com/Shone289/black/edit/master/tst.txt
